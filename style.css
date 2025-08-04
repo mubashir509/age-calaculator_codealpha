@@ -1,0 +1,22 @@
+body {
+      font-family: Arial, sans-serif;
+      background: #f0f0f0;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      min-height: 100vh;
+    }
+
+    .age-calculator {
+      max-width: 400px;
+      margin: 50px auto;
+      padding: 25px;
+      border-radius: 15px;
+      box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+      background-color: #ffffff;
+    }
+
+    #result {
+      margin-top: 15px;
+      font-weight: bold;
+    }
